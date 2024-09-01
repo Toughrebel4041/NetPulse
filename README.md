@@ -54,4 +54,10 @@ Results will be displayed on the terminal and logged to netpulse.log.
 ## Disclaimer
 Please use this tool responsibly. Web scraping may be against the terms of service of some websites. Always ensure you have permission to scrape a website before doing so.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Toughrebel4041/NetPulse/blob/main/LICENSE) file for details.
+```bash
+This expanded description provides a comprehensive overview of the FunLocker project, detailing its functionality, installation instructions, and usage.
+```
+
 ## This project is for educational purposes only.
